@@ -4,7 +4,7 @@
 
 Once you load the page, you will notice a menu in the upper left side of the page. Currently when you click on it nothing happens. You will build out the functionality to allow a dropdown menu to open and close when a user clicks on the dropdown button.
 
-#1 Study the HTML in the index.html file corresponding to the dropdown component.
+#1 Study the HTML in the index.html file corresponding to the menu component.
 
 #2 Study the LESS file in the Menu folder.
 

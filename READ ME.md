@@ -6,7 +6,7 @@ Once you load the page, you will notice a menu in the upper left side of the pag
 
 #1 Study the HTML in the index.html file corresponding to the dropdown component.
 
-#2 Study the LESS file in the Dropdown folder.
+#2 Study the LESS file in the Menu folder.
 
 #3 With your knowledge of the HTML and CSS, complete the Menu.js file. You will be creating a dropdown menu component.
 
